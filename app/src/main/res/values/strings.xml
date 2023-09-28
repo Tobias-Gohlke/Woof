@@ -13,10 +13,11 @@
   ~ See the License for the specific language governing permissions and
   ~ limitations under the License.
   -->
+
 <resources>
     <string name="app_name">Woof</string>
     <string name="dog_name_1">Kodamoda</string>
-    <string name="dog_name_2">Lola</string>
+    <string name="dog_name_2">Loli</string>
     <string name="dog_name_3">Frankie</string>
     <string name="dog_name_4">Nox</string>
     <string name="dog_name_5">Faye</string>
